@@ -8,6 +8,8 @@ It uses the **MobileNetV2** for Transfer Learning and uses the dataset from Kagg
 
 Also there is an upload option provided so that we can check how the model performs with the new images from our desktop that we feed it.
 
+<center> <img src="My_mask_test.PNG"></center>
+
 ## *Check on your own images:*
 #### 1. Take an image from your Webcam.
 #### 2. Run and train the model (I generally use [Google Colab](https://colab.research.google.com/)).
