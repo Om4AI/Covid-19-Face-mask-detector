@@ -13,4 +13,4 @@ Also there is an upload option provided so that we can check how the model perfo
 #### 2. Run and train the model (I generally use [Google Colab](https://colab.research.google.com/)).
 #### 3. Run the upload cell from the code, it will prompt you to upload a photo from your device; upload the photo which you took in Step 1 & get the results.
 #### 4. (Update) Code for Realtime Checking using the model has been included in the repository now. For more reference regarding *Saving and Loading Models*, view the official documentation: [TensorFlow: Load and Save models](https://www.tensorflow.org/tutorials/keras/save_and_load)
-#### 5. Real time face mask detection has been included in the repository now. I have used OpenCV (Haarcascades) to take only the face area of the person and feed it to the model that would be a saved H5 file.
+#### 5. ***Real time face mask detection*** has been included in the repository now. I have used OpenCV (Haarcascades) to take only the face area of the person and feed it to the model that would be a saved H5 file.
