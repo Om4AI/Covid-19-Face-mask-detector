@@ -18,4 +18,4 @@ Also there is an upload option provided so that we can check how the model perfo
 #### 5. ***Real time face mask detection*** has been included in the repository now. I have used OpenCV (Haarcascades) to take only the face area of the person and feed it to the model that would be a saved H5 file.
 
 
-### Check Face Mask Detector using your own Webcam: Run the ***Try_Face_Mask_detector.py*** file 
+### Check Face Mask Detector using your own Webcam: Run the [Face Mask Detector](https://github.com/Om4AI/Covid-Face-mask-detector/blob/main/Try_Face_Mask_detector.py)
