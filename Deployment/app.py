@@ -48,7 +48,7 @@ def upload():
         #Get the file from post request
         f = request.files['file']
         
-        # Save file to ./uploads 
+        # Save file to /uploads 
         basepath = os.path.dirname(__file__)
         file_path = os.path.join(
             basepath, 'uploads', secure_filename(f.filename))
