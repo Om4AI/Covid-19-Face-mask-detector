@@ -4,7 +4,7 @@
 
 **This model is developed with Keras and TensorFlow can be used to detect whether people are wearing a mask or not.**
 
-It uses the **MobileNetV2** for Transfer Learning and uses the dataset from Kaggle to train the images and correctly classify images as **Wearing Mask / Not Wearing Mask.** **Kaggle dataset link:**    [Kaggle_Face-Mask_Dataset](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
+It uses the **MobileNetV2** for Transfer Learning and uses the dataset from Kaggle to train the images and correctly classify images as **Wearing Mask / Not Wearing Mask.** **Kaggle dataset link:**    [Kaggle Face-Mask Dataset](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
 
 Also there is an upload option provided so that we can check how the model performs with the new images from our desktop that we feed it.
 
