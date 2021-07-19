@@ -1,6 +1,6 @@
 # Face_mask_detector
 
-## During these tough times of COVID 19; face masks have become very important and essential
+### During these tough times of COVID 19; face masks have become very important and essential
 
 **This model is developed with Keras and TensorFlow can be used to detect whether people are wearing a mask or not.**
 
