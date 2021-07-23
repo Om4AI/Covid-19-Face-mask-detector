@@ -8,7 +8,9 @@ It uses the **MobileNetV2** for Transfer Learning and uses the dataset from Kagg
 
 Also there is an upload option provided so that we can check how the model performs with the new images from our desktop that we feed it.
 
-<p align="center"><img src="My_mask_test.PNG" height="400" width="400"></p>
+<p align="center"><img src="https://freerangestock.com/sample/137191/new-normal--young-person-wearing-protective-face-mask-.jpg" height="500" width="500"></p>
+
+
 
 ## *Check on your own images:*
 #### 1. Take an image from your Webcam.
@@ -18,6 +20,7 @@ Also there is an upload option provided so that we can check how the model perfo
 #### 5. ***Real time face mask detection*** has been included in the repository now. I have used OpenCV (Haarcascades) to take only the face area of the person and feed it to the model that would be a saved H5 file.
 
 
-### Check Face Mask Detector using your own Webcam: Run the [Face Mask Detector](https://github.com/Om4AI/Covid-Face-mask-detector/blob/main/Try_Face_Mask_detector.py)
+Check Face Mask Detector using your own Webcam: Run the [Face Mask Detector](https://github.com/Om4AI/Covid-Face-mask-detector/blob/main/Try_Face_Mask_detector.py). Code for a Flask App has also been included to get outputs from a web app in local host.
 
-### Code for a Flask App has also been included to get outputs from a web app in local host.
+## Model Prediction Results:
+<p align="center"><img src="My_mask_test.PNG" height="400" width="400"></p>
