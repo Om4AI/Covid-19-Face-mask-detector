@@ -21,7 +21,10 @@ Also there is an upload option provided so that we can check how the model perfo
 
 
 Check Face Mask Detector using your own Webcam: Run the [Face Mask Detector](https://github.com/Om4AI/Covid-Face-mask-detector/blob/main/Try_Face_Mask_detector.py). Code for a Flask App has also been included to get outputs from a web app in local host.
+<br>
+
 
 ## *Real Time & Flask App prediction results:*
 <p align="center"><img src="Flask_App.PNG"> <img src="My_mask_test.PNG" height="400" width="400"></p>
 
+These are the predictions for the `Flask App` & the `Real Time Prediction` using `webcam.`
