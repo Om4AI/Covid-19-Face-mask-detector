@@ -1,4 +1,4 @@
-tensorflow-cpu==2.0.0
+tensorflow-cpu
 keras-preprocessing==1.1.2
 numpy==1.18.1
 Flask==1.1.2
