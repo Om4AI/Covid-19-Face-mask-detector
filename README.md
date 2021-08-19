@@ -24,7 +24,4 @@ Check Face Mask Detector using your own Webcam: Run the [Face Mask Detector](htt
 <br>
 
 
-## *Real Time & Flask App prediction results:*
-<p align="center"><img src="Flask_App.PNG"> <img src="My_mask_test.PNG" height="400" width="400"></p>
-
 These are the predictions for the `Flask App` & the `Real Time Prediction` using `webcam.`
