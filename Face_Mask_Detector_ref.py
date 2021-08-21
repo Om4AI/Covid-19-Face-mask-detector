@@ -71,7 +71,7 @@ def model_predict(model):
         x = preprocess_input(x, mode='caffe')
         preds = model.predict(x)
         return preds
-    else: st.success("Please Upload an Image")
+#     else: st.success("Please Upload an Image")
 
 # Calling prediction function
 preds = model_predict(model)
