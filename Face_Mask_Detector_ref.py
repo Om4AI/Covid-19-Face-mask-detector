@@ -77,7 +77,6 @@ def model_predict(model):
 preds = model_predict(model)
 if (img and preds[0]>0.5):
     left.error("No Mask Detected")
-else: left.success("Mask Detected")
 
 
 
