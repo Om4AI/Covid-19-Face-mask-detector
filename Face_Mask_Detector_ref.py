@@ -41,7 +41,7 @@ left, right = st.columns(2)
 img = left.file_uploader("Image to Test")
 if (img):right.image(img, caption="Uploaded Image")
 else:
-    right.image("User_Image.jpeg", caption="Sample Prediction")
+    st.success("Please Upload an Image")
 
 st.sidebar.map()
 
