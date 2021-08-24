@@ -1,4 +1,4 @@
-# Face_mask_detector
+# Streamlit Deployment of Face Mask Detector
 
 ### During these tough times of COVID 19; face masks have become very important and essential
 
