@@ -25,6 +25,11 @@ with warnings.catch_warnings():
     warnings.simplefilter("ignore")
     fxn()
 
+st.set_page_config(
+     page_title="STATIC FACE MASK DETECTOR",
+     page_icon="😷",
+     layout="wide"
+)
 
 # Title & Headers
 st.title("COVID-19 Face Mask Detector")
@@ -78,6 +83,3 @@ preds = model_predict(model)
 if (img and preds[0]>0.5):
     left.error("No Mask Detected")
 elif (img and preds[0]<0.5): left.success("Mask Detected")
-
-
-
